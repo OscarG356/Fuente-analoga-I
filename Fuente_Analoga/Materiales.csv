@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"COPYRIGHT";"MANUFACTURER_PART_NUMBER";"MF";"MFR_NAME";"MPN";"OC_FARNELL";"OC_NEWARK";"POPULARITY";"SPICEMODEL";"SPICEPREFIX";"SPICEPREFIXL";
+"1";"";"2N2222-NPN-TO92-EBC";"TO92-EBC";"T1";"NPN Transistror";"";"";"";"";"";"";"";"0";"";"";"";
+"3";"";"AK500/2";"AK500/2";"X1, X2, X3";"CONNECTOR";"";"";"";"";"";"unknown";"unknown";"14";"";"";"";
+"1";"";"LM317TS";"317TS";"IC1";"VOLTAGE REGULATOR";"";"";"";"";"";"";"";"0";"";"";"";
+"1";"";"PINHD-1X4";"1X04";"JP1";"PIN HEADER";"";"";"";"";"";"";"";"91";"";"";"";
+"1";"";"R-TRIMM64W";"RTRIM64W";"R3";"Trimm resistor";"";"";"";"";"";"";"";"0";"X";"";"POT";
+"1";"10000u";"CPOL-EUE10-35";"EB35D";"C1";"POLARIZED CAPACITOR, European symbol";"";"";"";"";"";"";"";"0";"";"C";"";
+"3";"10k";"R-US_0207/10";"0207/10";"R6, R7, R8";"RESISTOR, American symbol";"";"";"";"";"";"";"";"36";"";"R";"";
+"1";"10uF";"CPOL-EUE2-5";"E2-5";"C2";"POLARIZED CAPACITOR, European symbol";"";"";"";"";"";"";"";"14";"";"C";"";
+"3";"1M";"R-US_0207/10";"0207/10";"R1, R4, R5";"RESISTOR, American symbol";"";"";"";"";"";"";"";"36";"";"R";"";
+"6";"1k";"R-US_0204/7";"0204/7";"R9, R10, R11, R12, R13, R14";"RESISTOR, American symbol";"";"";"";"";"";"";"";"48";"";"R";"";
+"3";"4N35";"4N35";"DIL06";"OK1, OK2, OK3";"MOTOROLA OPTO COUPLER";"";"";"FAIRCHILD SEMICONDUCTOR";"";"4N35";"1328375";"72K9946";"1";"";"";"";
+"1";"500";"R-US_0207/10";"0207/10";"R2";"RESISTOR, American symbol";"";"";"";"";"";"";"";"36";"";"R";"";
+"1";"LM358N";"LM358N";"DIL08";"IC2";"OP AMP also LM158; LM258; LM2904";"";"";"";"";"";"";"";"7";"";"";"";
+"1";"RECTIFIER-KBL";"RECTIFIER-KBL";"KBL";"B1";"Rectifier";"";"";"";"";"";"";"";"3";"";"";"";
+"2";"TIP122";"TIP122";"TO220";"Q1, Q2";"NPN Darlington Transistor";"";"";"";"";"";"";"";"1";"";"";"";
+"1";"TYN612RGTO_N12RG_STM";"TYN612RGTO_N12RG_STM";"TO_N12RG_STM";"U1";"";"Copyright (C) 2024 Ultra Librarian. All rights reserved.";"TYN612RG";"";"STMicroelectronics";"";"";"";"";"";"";"";
